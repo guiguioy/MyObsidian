@@ -11,8 +11,30 @@
             "id": "27b42b2d5bca46ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "npm、yarn、nvm命令.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "52d022c67564e067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bdb32c03ef638b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "npm、yarn、nvm命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "npm、yarn、nvm命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "npm、yarn、nvm命令.md"
+              }
             }
           }
         ]
@@ -138,10 +164,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d030aada8a8786f",
+  "active": "27b42b2d5bca46ca",
   "lastOpenFiles": [
-    "顶顶顶顶的点点滴滴",
+    "README.md.md",
+    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
+    "前端笔记/HTML、CSS/css属性顺序推荐.md",
+    "前端笔记/HTML、CSS/前端代码规范.md",
+    "前端笔记/React/react  vue  父子组件调用.md",
+    "前端笔记/React/react HOOK ——API.md",
+    "前端笔记/Vue/vue使用Canvas画图.md",
+    "前端笔记/Vue/uni-app.md",
+    "前端笔记/Vue/react  vue  父子组件调用.md",
+    "正则（RegExp）.md",
+    "git github Nginx.md",
+    "markdown语法.md",
+    "npm、yarn、nvm命令.md",
+    "Welcome.md",
+    "2024-02-28.md",
     "未命名.canvas",
-    "Welcome.md"
+    "顶顶顶顶的点点滴滴"
   ]
 }
