@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "42ccfa31819fec65",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "27b42b2d5bca46ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npm、yarn、nvm命令.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "52d022c67564e067",
         "type": "tabs",
         "children": [
@@ -31,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
                 "mode": "preview",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npm、yarn、nvm命令.md",
+                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npm、yarn、nvm命令.md",
+                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npm、yarn、nvm命令.md"
+                "file": "前端笔记/HTML、CSS/HTML常用标签.md"
               }
             }
           }
@@ -164,21 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "27b42b2d5bca46ca",
+  "active": "6bdb32c03ef638b0",
   "lastOpenFiles": [
     "README.md.md",
-    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
-    "前端笔记/HTML、CSS/css属性顺序推荐.md",
     "前端笔记/HTML、CSS/前端代码规范.md",
     "前端笔记/React/react  vue  父子组件调用.md",
-    "前端笔记/React/react HOOK ——API.md",
-    "前端笔记/Vue/vue使用Canvas画图.md",
-    "前端笔记/Vue/uni-app.md",
-    "前端笔记/Vue/react  vue  父子组件调用.md",
+    "运行报错处理集合.md",
     "正则（RegExp）.md",
     "git github Nginx.md",
     "markdown语法.md",
     "npm、yarn、nvm命令.md",
+    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
+    "前端笔记/HTML、CSS/css属性顺序推荐.md",
+    "前端笔记/React/react HOOK ——API.md",
+    "前端笔记/Vue/vue使用Canvas画图.md",
+    "前端笔记/Vue/uni-app.md",
+    "前端笔记/Vue/react  vue  父子组件调用.md",
     "Welcome.md",
     "2024-02-28.md",
     "未命名.canvas",
