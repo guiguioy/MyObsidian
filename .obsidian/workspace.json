@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
-                "mode": "preview",
+                "file": "README.md.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端笔记/HTML、CSS/HTML常用标签.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端笔记/HTML、CSS/HTML常用标签.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -141,18 +141,19 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
       "command-palette:打开命令面板": false
     }
   },
   "active": "6bdb32c03ef638b0",
   "lastOpenFiles": [
+    "正则（RegExp）.md",
+    "前端笔记/HTML、CSS/HTML常用标签.md",
     "README.md.md",
     "前端笔记/HTML、CSS/前端代码规范.md",
     "前端笔记/React/react  vue  父子组件调用.md",
     "运行报错处理集合.md",
-    "正则（RegExp）.md",
     "git github Nginx.md",
     "markdown语法.md",
     "npm、yarn、nvm命令.md",
