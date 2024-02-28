@@ -4,32 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b09b6e73aaf316",
+        "id": "42ccfa31819fec65",
         "type": "tabs",
         "children": [
           {
-            "id": "bf4e4397036a43ad",
+            "id": "27b42b2d5bca46ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e6396c4dd4afcd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4f8be7cf9d9c5aa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,8 +138,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bf4e4397036a43ad",
+  "active": "4d030aada8a8786f",
   "lastOpenFiles": [
+    "顶顶顶顶的点点滴滴",
+    "未命名.canvas",
     "Welcome.md"
   ]
 }
