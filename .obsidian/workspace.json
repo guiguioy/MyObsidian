@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88cd2e164a9cc7e9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6bdb32c03ef638b0",
+  "active": "88cd2e164a9cc7e9",
   "lastOpenFiles": [
     "前端笔记/HTML、CSS/HTML常用标签.md",
     "前端笔记/HTML、CSS/HTML问题记录.md",
