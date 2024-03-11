@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正则（RegExp）.md",
+                "file": "README.md.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则（RegExp）.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则（RegExp）.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,20 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正则（RegExp）.md"
+                "file": "README.md.md"
               }
-            }
-          },
-          {
-            "id": "addbf353aa9f356d",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -168,13 +160,13 @@
   },
   "active": "88cd2e164a9cc7e9",
   "lastOpenFiles": [
+    "运行报错处理集合.md",
+    "正则（RegExp）.md",
     "git github Nginx.md",
     "markdown语法.md",
     "npm、yarn、nvm命令.md",
-    "正则（RegExp）.md",
     "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "README.md.md",
-    "运行报错处理集合.md",
     "前端笔记/HTML、CSS/HTML常用标签.md",
     "前端笔记/HTML、CSS/HTML问题记录.md",
     "前端笔记/HTML、CSS/css属性顺序推荐.md",
