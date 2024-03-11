@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "git github Nginx.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -160,8 +160,9 @@
   },
   "active": "88cd2e164a9cc7e9",
   "lastOpenFiles": [
-    "markdown语法.md",
+    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "git github Nginx.md",
+    "markdown语法.md",
     "正则（RegExp）.md",
     "npm、yarn、nvm命令.md",
     "README.md.md",
@@ -171,7 +172,6 @@
     "前端笔记/HTML、CSS/css属性顺序推荐.md",
     "前端笔记/HTML、CSS/前端代码规范.md",
     "前端笔记/React/react  vue  父子组件调用.md",
-    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "前端笔记/React/react HOOK ——API.md",
     "前端笔记/Vue/vue使用Canvas画图.md",
     "前端笔记/Vue/uni-app.md",
