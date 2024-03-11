@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git github Nginx.md",
+                "file": "正则（RegExp）.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git github Nginx.md",
+                "file": "正则（RegExp）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git github Nginx.md",
+                "file": "正则（RegExp）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,26 +128,34 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "cef7d8718d41503e",
+            "id": "1ef769bd3794317c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "git github Nginx.md"
+                "file": "正则（RegExp）.md"
               }
             }
+          },
+          {
+            "id": "addbf353aa9f356d",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +168,11 @@
   },
   "active": "88cd2e164a9cc7e9",
   "lastOpenFiles": [
-    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "git github Nginx.md",
     "markdown语法.md",
-    "正则（RegExp）.md",
     "npm、yarn、nvm命令.md",
+    "正则（RegExp）.md",
+    "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "README.md.md",
     "运行报错处理集合.md",
     "前端笔记/HTML、CSS/HTML常用标签.md",
