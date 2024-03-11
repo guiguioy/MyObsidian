@@ -23,9 +23,11 @@
             "id": "88cd2e164a9cc7e9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "git github Nginx.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
+                "file": "git github Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
+                "file": "git github Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md"
+                "file": "git github Nginx.md"
               }
             }
           }
@@ -159,17 +161,17 @@
   },
   "active": "88cd2e164a9cc7e9",
   "lastOpenFiles": [
+    "markdown语法.md",
+    "git github Nginx.md",
+    "正则（RegExp）.md",
+    "npm、yarn、nvm命令.md",
+    "README.md.md",
+    "运行报错处理集合.md",
     "前端笔记/HTML、CSS/HTML常用标签.md",
     "前端笔记/HTML、CSS/HTML问题记录.md",
     "前端笔记/HTML、CSS/css属性顺序推荐.md",
-    "README.md.md",
-    "正则（RegExp）.md",
     "前端笔记/HTML、CSS/前端代码规范.md",
     "前端笔记/React/react  vue  父子组件调用.md",
-    "运行报错处理集合.md",
-    "git github Nginx.md",
-    "markdown语法.md",
-    "npm、yarn、nvm命令.md",
     "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
     "前端笔记/React/react HOOK ——API.md",
     "前端笔记/Vue/vue使用Canvas画图.md",
