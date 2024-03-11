@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "运行报错处理集合.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37da17df75c0f978",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "59d3e889ccb91ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端框架.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "前端框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "前端框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "前端框架.md"
               }
             }
           }
@@ -158,15 +182,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "88cd2e164a9cc7e9",
+  "active": "59d3e889ccb91ea2",
   "lastOpenFiles": [
+    "markdown语法.md",
+    "README.md",
+    "README.md.md",
+    "前端框架.md",
     "运行报错处理集合.md",
+    "Welcome.md",
     "正则（RegExp）.md",
     "git github Nginx.md",
-    "markdown语法.md",
     "npm、yarn、nvm命令.md",
     "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
-    "README.md.md",
     "前端笔记/HTML、CSS/HTML常用标签.md",
     "前端笔记/HTML、CSS/HTML问题记录.md",
     "前端笔记/HTML、CSS/css属性顺序推荐.md",
@@ -176,7 +203,6 @@
     "前端笔记/Vue/vue使用Canvas画图.md",
     "前端笔记/Vue/uni-app.md",
     "前端笔记/Vue/react  vue  父子组件调用.md",
-    "Welcome.md",
     "2024-02-28.md",
     "未命名.canvas",
     "顶顶顶顶的点点滴滴"
