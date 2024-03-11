@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端框架.md",
-                "mode": "source",
-                "source": false
+                "file": "markdown语法.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端框架.md",
+                "file": "markdown语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端框架.md",
+                "file": "markdown语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端框架.md"
+                "file": "markdown语法.md"
               }
             }
           }
@@ -184,13 +184,13 @@
   },
   "active": "59d3e889ccb91ea2",
   "lastOpenFiles": [
+    "正则（RegExp）.md",
+    "运行报错处理集合.md",
+    "前端框架.md",
     "markdown语法.md",
     "README.md",
     "README.md.md",
-    "前端框架.md",
-    "运行报错处理集合.md",
     "Welcome.md",
-    "正则（RegExp）.md",
     "git github Nginx.md",
     "npm、yarn、nvm命令.md",
     "前端笔记/HTML、CSS/localStorage、sessionStorage、cookie本地储存：.md",
