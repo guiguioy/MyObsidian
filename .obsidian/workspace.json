@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown语法.md",
+                "file": "前端笔记/React/react  vue  父子组件调用.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown语法.md",
+                "file": "前端笔记/React/react  vue  父子组件调用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown语法.md",
+                "file": "前端笔记/React/react  vue  父子组件调用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown语法.md"
+                "file": "前端笔记/React/react  vue  父子组件调用.md"
               }
             }
           }
@@ -184,10 +184,10 @@
   },
   "active": "59d3e889ccb91ea2",
   "lastOpenFiles": [
+    "markdown语法.md",
     "正则（RegExp）.md",
     "运行报错处理集合.md",
     "前端框架.md",
-    "markdown语法.md",
     "README.md",
     "README.md.md",
     "Welcome.md",
