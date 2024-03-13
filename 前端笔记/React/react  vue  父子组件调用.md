@@ -15,7 +15,7 @@
 
 **父组件调用子组件函数方法**
 
-```javascript
+```react
 <!--父组件-->
 const childRef=useRef();
 childRef.current.getInfo();
