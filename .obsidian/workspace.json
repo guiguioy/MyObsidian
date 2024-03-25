@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md",
+                "file": "前端框架.md",
                 "mode": "preview",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md",
+                "file": "前端框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md",
+                "file": "前端框架.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md"
+                "file": "前端框架.md"
               }
             }
           }
@@ -184,6 +184,7 @@
   },
   "active": "59d3e889ccb91ea2",
   "lastOpenFiles": [
+    "前端笔记/React/react  vue  父子组件调用.md",
     "markdown语法.md",
     "正则（RegExp）.md",
     "运行报错处理集合.md",
@@ -198,7 +199,6 @@
     "前端笔记/HTML、CSS/HTML问题记录.md",
     "前端笔记/HTML、CSS/css属性顺序推荐.md",
     "前端笔记/HTML、CSS/前端代码规范.md",
-    "前端笔记/React/react  vue  父子组件调用.md",
     "前端笔记/React/react HOOK ——API.md",
     "前端笔记/Vue/vue使用Canvas画图.md",
     "前端笔记/Vue/uni-app.md",
