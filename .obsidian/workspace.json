@@ -54,19 +54,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3a414732a697c1c0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -192,7 +182,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3a414732a697c1c0",
+  "active": "59d3e889ccb91ea2",
   "lastOpenFiles": [
     "前端笔记/React/react  vue  父子组件调用.md",
     "markdown语法.md",
