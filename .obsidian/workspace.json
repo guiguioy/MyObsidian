@@ -59,9 +59,11 @@
             "id": "5f177e0efc121608",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "正则（RegExp）.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md",
+                "file": "正则（RegExp）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md",
+                "file": "正则（RegExp）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端笔记/React/react  vue  父子组件调用.md"
+                "file": "正则（RegExp）.md"
               }
             }
           }
